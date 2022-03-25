@@ -12,10 +12,10 @@ And you, what do you think about it? 🔥
 
 ## Stack
 
-ReactJS
-ChakraUI 
-Solidity 
-Smart Contracts
+- ReactJS
+- ChakraUI 
+- Solidity 
+- Smart Contracts
 
 ## What you will find running the project
 
